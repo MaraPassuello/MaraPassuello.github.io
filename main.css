@@ -10,7 +10,7 @@ html, body {
 
 h1 {
 font-family: tahoma, sans-serif;
-    font-size: 40px;
+    font-size: 3rem;
     color: tomato;
   }
 .main {
@@ -20,7 +20,7 @@ font-family: tahoma, sans-serif;
 
 h3 {
   font-family: Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 2rem;
     color: black;
 }
 .banner {
@@ -29,7 +29,7 @@ h3 {
 
 p {
   font-family: Helvetica, sans-serif;
-    max-width: 65%;
+    font-size: 1.25rem;
     color: #d3d3d3;
 }
 
