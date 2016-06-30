@@ -4,28 +4,51 @@ html, body {
     height: 100%;
 }
 
+h3 {
+  font-family: Helvetica , sans-serif;
+    font-size: 2rem;
+    color: white;
+  }
+  #contact {
+    font-family: Helvetica, sans-serif;  color: white; font-size: 1.25rem;
+  }
+
 .navbar {
   font-family: Helvetica, sans-serif;
 }
 
+.navbar {
+   background-color: #ADFF2F;
+ }
+
 h1 {
-font-family: tahoma, sans-serif;
+font-family: Helvetica , sans-serif;
     font-size: 3rem;
-    color: tomato;
-  }
-.main {
-  font-family: Helvetica, sans-serif;
-}
-
-
-h3 {
-  font-family: Helvetica, sans-serif;
-    font-size: 2rem;
     color: black;
+  }
+  #perso {
+    font-family: Helvetica, sans-serif;  color: black; font-size: 1.75rem;
+  }
+  #info {
+    font-family: Helvetica, sans-serif;  color: black;font-size: 1.25rem;
+  }
+
+
+.main {
+  background-image: url("mara3.jpg")
 }
+
+
 .banner {
   font-family: Helvetica, sans-serif;
 }
+#bio {
+  font-family: Helvetica, sans-serif;  color: white;font-size: 1.25rem;
+}
+
+.banner {
+   background-color: #ADFF2F;
+ }
 
 p {
   font-family: Helvetica, sans-serif;
