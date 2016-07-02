@@ -15,10 +15,17 @@ h3 {
 
 .navbar {
   font-family: Helvetica, sans-serif;
-}
-
-.navbar {
    background-color: #ADFF2F;
+ }
+ .navbar ul {
+   display: inline;
+ }
+ .logo{
+   float: left;
+ }
+
+ #contatti {
+   font-size: 1.5rem;
  }
 
 h1 {
@@ -54,13 +61,4 @@ p {
   font-family: Helvetica, sans-serif;
     font-size: 1.25rem;
     color: #d3d3d3;
-}
-
-
-ul {
-    max-width: 65%;
-    color: #d3d3d3;
-}
-main {
-  float: right;
 }
