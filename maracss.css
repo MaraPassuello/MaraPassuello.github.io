@@ -1,0 +1,14 @@
+.social-image {
+  width: 32px; height: 32px;
+}
+
+.navbar {
+  border-bottom: none;
+}
+
+body { padding-top: 70px; }
+
+.jumbotron {
+  background-image: url("mara3.jpg");
+  min-height:199px
+}
